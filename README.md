@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I’m Elham Rabbany
 
-<!--
-**Elham-Rabbany/Elham-Rabbany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌌 I’m a **data scientist** with a background in **physics** and a passion for leveraging data to solve real-world problems. My interests lie in applying machine learning and data engineering techniques to uncover insights in fields like **energy efficiency**, **climate change**, and **natural sciences**.
 
-Here are some ideas to get you started:
+🚀 I enjoy working on end-to-end data solutions, from building **data pipelines** to implementing **machine learning models** and visualizing actionable insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 My goal is to contribute to projects that use data to address critical global challenges, especially at the intersection of science and technology.  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Languages**: Python, SQL
+- **Data Visualization**: Tableau, Matplotlib, Seaborn  
+- **Databases**: PostgreSQL, MySQL, SQLite  
+- **Cloud Platforms**: Google Cloud  
+- **Other Tools**: Git, Jupyter Notebooks  
+
+---
+
+## 📫 Connect with Me
+
+Let’s connect and collaborate! Feel free to reach out for project ideas or discussions.  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/elham-rabbany)  
+📧 **Email**: rabbany.elham@gmail.com  
+
+---
+## 🏗️ Featured Projects
+
+| Project Name | Description | Tools |
+|--------------|-------------|-------|
+| [**Supervised ML Classification**](https://github.com/Elham-Rabbany/Supervised_ML_Classification) | Predicting housing prices using supervised machine learning techniques. | Python, Scikit-learn |
+| [**Data Pipelines E-Scooter**](https://github.com/Elham-Rabbany/Data-Pipelines_E-Scooter) | Built a data pipeline for mobility analytics using local and cloud-based platforms. | Python, SQL, Google Cloud |
+| [**SQL Prep**](https://github.com/Elham-Rabbany/SQL-Prep) | SQL exercises for mastering foundational concepts (e.g., queries, window functions). | SQL, PostgreSQL |

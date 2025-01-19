@@ -22,8 +22,7 @@
 
 Let’s connect and collaborate! Feel free to reach out for project ideas or discussions.  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/elham-rabbany)  
-📧 **Email**: rabbany.elham@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/elhamrabbany/)  
 
 ---
 ## 🏗️ Featured Projects

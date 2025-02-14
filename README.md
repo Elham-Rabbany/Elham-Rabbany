@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Elham 
+# 👋 Hi, I’m Aida 
 
 🌌 I’m a **data scientist** with a background in **physics** and a passion for leveraging data to solve real-world problems. My interests lie in applying machine learning and data engineering techniques to uncover insights in fields like **energy efficiency**, **climate change**, and **natural sciences**.
 
